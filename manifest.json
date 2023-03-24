@@ -1,0 +1,15 @@
+{
+  "short_name": "FreeFromWeb",
+  "name": "FreeFromWeb - Nostr client",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#15202b",
+  "background_color": "#15202b",
+  "icons": [
+    {
+      "src": "",
+      "sizes": "",
+      "type": ""
+    }
+  ]
+}

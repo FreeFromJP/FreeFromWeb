@@ -1,6 +1,6 @@
 {
-  "short_name": "FreeFromWeb",
-  "name": "FreeFromWeb - Nostr client",
+  "short_name": "FreeFrom(Debug Tool)",
+  "name": "FreeFrom(Debug Tool) - Nostr client",
   "start_url": "/",
   "display": "standalone",
   "theme_color": "#15202b",
